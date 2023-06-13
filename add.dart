@@ -7,7 +7,7 @@ void main() {
 
 void agren(MouseEvent e)
 {
-    var elemento= new Element.html('<div class="farmaciasim"><a href="https://yeyo1080.github.io/sires1/agree.html"><img src="pino2.jpg" alt="prueba" width="200px"></a><div class="texto2"></div></div>'
+    var elemento= new Element.html('<div class="farmaciasim"><a href="https://yeyo1080.github.io/ANT/agree.html"><img src="pino2.jpg" alt="prueba" width="200px"></a><div class="texto2"></div></div>'
 );
     document.body?.children.add(elemento);
 
