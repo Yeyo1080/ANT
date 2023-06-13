@@ -3393,7 +3393,7 @@
     agren(e) {
       var elemento, t1;
       type$.MouseEvent._as(e);
-      elemento = A.Element_Element$html('<div class="farmaciasim"><a href="https://yeyo1080.github.io/sires1/agree.html"><img src="as.jpg" alt="prueba"></a><div class="texto2"></div></div>');
+      elemento = A.Element_Element$html('<div class="farmaciasim"><a href="https://yeyo1080.github.io/sires1/agree.html"><img src="pino2.jpg" alt="prueba"></a><div class="texto2"></div></div>');
       t1 = document.body;
       if (t1 != null)
         t1.appendChild(elemento);
